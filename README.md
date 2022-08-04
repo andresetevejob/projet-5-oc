@@ -13,6 +13,7 @@
 
 ## 3 - Demarrer le projet front
 <pre>
+   - cd .. (pour revenir à la racine du projet)
    - http-server front
 </pre>
 
